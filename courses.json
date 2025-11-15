@@ -1,0 +1,63 @@
+
+[
+  {
+    "courseId": "C101",
+    "title": "Introduction to Web Development",
+    "instructor": "John Doe",
+    "duration": "10 hours",
+    "rating": 4.5,
+    "category": "Web Development",
+    "price": "50",
+    "enrolled": "2500"
+  },
+  {
+    "courseId": "C102",
+    "title": "Advanced React & TypeScript",
+    "instructor": "Jane Smith",
+    "duration": "25 hours",
+    "rating": 4.8,
+    "category": "Web Development",
+    "price": "120",
+    "enrolled": "1800"
+  },
+  {
+    "courseId": "C201",
+    "title": "Data Science with Python",
+    "instructor": "Emily White",
+    "duration": "40 hours",
+    "rating": 4.7,
+    "category": "Data Science",
+    "price": "150",
+    "enrolled": "3200"
+  },
+  {
+    "courseId": "C202",
+    "title": "Machine Learning Foundations",
+    "instructor": "Michael Green",
+    "duration": "35 hours",
+    "rating": 4.9,
+    "category": "Data Science",
+    "price": "200",
+    "enrolled": "1500"
+  },
+  {
+    "courseId": "C301",
+    "title": "UI/UX Design Fundamentals",
+    "instructor": "Sarah Brown",
+    "duration": "15 hours",
+    "rating": 4.6,
+    "category": "Design",
+    "price": "80",
+    "enrolled": "4500"
+  },
+  {
+    "courseId": "C302",
+    "title": "Digital Illustration with Procreate",
+    "instructor": "David Wilson",
+    "duration": "12 hours",
+    "rating": 4.4,
+    "category": "Design",
+    "price": "60",
+    "enrolled": "2200"
+  }
+]

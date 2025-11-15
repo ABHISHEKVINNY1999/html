@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Online Course Platform",
+  "description": "An interactive web application to browse, sort, filter, and sign up for online courses. It features a modern, responsive interface with dynamic data handling and form validation.",
+  "requestFramePermissions": []
+}
